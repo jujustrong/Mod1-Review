@@ -1,0 +1,14 @@
+/Users/jarmstrong/Desktop/repos/Mod1-Review/bin/Debug/net8.0/Mod1-Review
+/Users/jarmstrong/Desktop/repos/Mod1-Review/bin/Debug/net8.0/Mod1-Review.deps.json
+/Users/jarmstrong/Desktop/repos/Mod1-Review/bin/Debug/net8.0/Mod1-Review.runtimeconfig.json
+/Users/jarmstrong/Desktop/repos/Mod1-Review/bin/Debug/net8.0/Mod1-Review.dll
+/Users/jarmstrong/Desktop/repos/Mod1-Review/bin/Debug/net8.0/Mod1-Review.pdb
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.AssemblyInfoInputs.cache
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.AssemblyInfo.cs
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.csproj.CoreCompileInputs.cache
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.dll
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/refint/Mod1-Review.dll
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.pdb
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/Mod1-Review.genruntimeconfig.cache
+/Users/jarmstrong/Desktop/repos/Mod1-Review/obj/Debug/net8.0/ref/Mod1-Review.dll
